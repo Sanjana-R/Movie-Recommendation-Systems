@@ -1,4 +1,4 @@
-# Movie-Recommendation-Systems
+# Movie Recommendation Systems
 Three movie recommendation systems using 1) Collaborative Filtering, 2) Correlation Analysis and 3) Matrix Factorization. 
 
 ## Details 
