@@ -5,11 +5,17 @@ Three movie recommendation systems using 1) K-Nearest Neighbours, 2) Correlation
 
 ### - Setup Details
 Jupyter notebook
+
 Python
+
 SciPy library
+
 NumPy
+
 Scikit-learn
+
 Pandas
+
 Fuzzywuzzy
 
 ### - About the Dataset
