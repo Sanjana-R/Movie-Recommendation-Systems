@@ -1,5 +1,5 @@
 # Movie Recommendation Systems
-Three movie recommendation systems using 1) K-Nearest Neighbours, 2) Correlation Analysis and 3) Matrix Factorization. 
+Three movie recommendation systems using 1) K-Nearest Neighbour Algorithm, 2) Correlation Analysis and 3) Matrix Factorization. 
 
 ## Details 
 
